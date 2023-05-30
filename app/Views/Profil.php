@@ -105,7 +105,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img" src="https://i.ytimg.com/vi/OXxj8v7g5A0/maxresdefault.jpg" width="384" height="384" alt="Photo by Damir Spanic">
+                        <img class="img" src="https://i.ytimg.com/vi/OXxj8v7g5A0/maxresdefault.jpg" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img" src="https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384" alt="Photo by Damir Spanic">
+                        <img class="img" src="https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -131,7 +131,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img-fluid" src="https://images.pexels.com/photos/2157191/pexels-photo-2157191.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384" alt="Photo by Alexander Hipp">
+                        <img class="img-fluid" src="https://images.pexels.com/photos/2157191/pexels-photo-2157191.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -166,7 +166,7 @@
             <div class="row row-cols-2 row-cols-lg-4 g-lg-5  ">
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img-fluid" src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/05/15/c5acfe1c/356_revealhero.jpg" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384" alt="Photo by Seth Doyle">
+                        <img class="img-fluid" src="https://www.gameinformer.com/sites/default/files/styles/full/public/2023/05/15/c5acfe1c/356_revealhero.jpg" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img-fluid" src="https://cdn.wallpapersafari.com/85/3/hfco7l.jpg" sizes="" width="384" height="384" alt="Photo by Sigmund">
+                        <img class="img-fluid" src="https://cdn.wallpapersafari.com/85/3/hfco7l.jpg" sizes="" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -192,7 +192,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img-fluid" src="https://i.ytimg.com/vi/I2O7blSSzpI/maxresdefault.jpg" width="384" height="384" alt="Photo by Damir Spanic">
+                        <img class="img-fluid" src="https://i.ytimg.com/vi/I2O7blSSzpI/maxresdefault.jpg" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
@@ -205,7 +205,7 @@
                 </div>
                 <div class="col text-center">
                     <div class="lc-block mb-4">
-                        <img class="img-fluid" src="https://wallpaperaccess.com/full/471726.jpg" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384" alt="Photo by Alexander Hipp">
+                        <img class="img-fluid" src="https://wallpaperaccess.com/full/471726.jpg" sizes="(max-width: 1080px) 100vw, 1080px" width="384" height="384">
                     </div><!-- /lc-block -->
                     <div class="lc-block">
                         <div editable="rich">
